@@ -1,5 +1,8 @@
 [aiQG.vip](aiQG.vip)
 
-![](https://github-readme-stats.vercel.app/api?username=aiqg&show_icons=true&theme=tokyonight)
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=aiqg&layout=compact&theme=tokyonight)
+<!-- status codes -->
+<a align="center" href="aiQG.vip">
+    <p align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=aiQG&show_icons=true&theme=tokyonight" alt="my github stats" width="420"/>&nbsp;<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aiQG&layout=compact&theme=tokyonight" alt="languages" height="165">
+    </p>
+</a>
