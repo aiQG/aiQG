@@ -7,6 +7,9 @@
     </p>
 </a>
 
-[SastGame](https://SastGame.com)
+ <p align="center">
+    [aiQG.vip](https://aiQG.vip) &nbsp; [SastGame](https://SastGame.com)
+ </p>
 
-[aiQG.vip](https://aiQG.vip)
+
+
