@@ -2,7 +2,7 @@
 
 <!-- status codes -->
 <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=aiQG&show_icons=true&theme=merko&count_private=true" alt="my github stats" width="420"/>&nbsp;<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aiQG&layout=compact&theme=merko&langs_count=10" alt="languages" height="165"><img src="https://github-profile-trophy.vercel.app/?username=aiQG&column=7&theme=gruvbox"/>
+    <img src="https://github-readme-stats.vercel.app/api?username=aiQG&show_icons=true&theme=merko&count_private=true" alt="my github stats" width="420"/>&nbsp;<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aiQG&layout=compact&theme=merko&langs_count=10" alt="languages" height="165">&nbsp;<img src="https://github-profile-trophy.vercel.app/?username=aiQG&column=7&theme=gruvbox"/>
 </p>
 
 
