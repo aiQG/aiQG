@@ -1,6 +1,4 @@
- <p align="center">
-    <a align="center" href="https://aiQG.vip">aiQG.vip</a> &nbsp; <--<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">--> &nbsp; <a align="center" href="https://SastGame.com">SastGame</a>
- </p>
+
 
 
 <!-- status codes -->
@@ -14,10 +12,12 @@
 <!-- thropy -->
 <a href="https://aiQG.vip">
     <p align="center">
-        <img src="https://github-profile-trophy.vercel.app/?username=aiQG&column=7&theme=gruvbox"/>
+        <img src="https://github-profile-trophy.vercel.app/?username=aiQG&column=6&theme=gruvbox"/>
     </p>
 </a>
 
 
-
-
+ 
+ <p align="center">
+    <a align="center" href="https://aiQG.vip">aiQG.vip</a> &nbsp; <--<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">--> &nbsp; <a align="center" href="https://SastGame.com">SastGame</a>
+ </p>
