@@ -7,7 +7,7 @@
 
 
  <p align="center">
-    <a align="center" href="https://aiQG.vip">aiQG.vip</a> &nbsp; <a align="center" href="https://SastGame.com">SastGame</a>
+    <a align="center" href="https://aiQG.vip">aiQG.vip</a> &nbsp; &nbsp; <a align="center" href="https://SastGame.com">SastGame</a>
  </p>
 
 
