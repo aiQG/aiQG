@@ -7,7 +7,7 @@
 
 <!-- cup -->
 <p align="center">
-    <img src="https://github-profile-trophy.vercel.app/?username=aiQG&column=7&theme=gruvbox"/>
+    &nbsp;<img src="https://github-profile-trophy.vercel.app/?username=aiQG&column=7&theme=gruvbox"/>
 </p>
 
  <p align="center">
