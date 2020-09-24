@@ -1,3 +1,6 @@
+ <p align="center">
+    <a align="center" href="https://aiQG.vip">aiQG.vip</a> &nbsp; <--<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">--> &nbsp; <a align="center" href="https://SastGame.com">SastGame</a>
+ </p>
 
 
 <!-- status codes -->
@@ -15,9 +18,6 @@
     </p>
 </a>
 
- <p align="center">
-    <a align="center" href="https://aiQG.vip">aiQG.vip</a> &nbsp; <--<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">--> &nbsp; <a align="center" href="https://SastGame.com">SastGame</a>
- </p>
 
 
 
